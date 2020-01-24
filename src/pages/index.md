@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ' '
-image: /img/Copy of Copy of Copy of Violet Barbell Icon Fitness Logo.png
+image: /img/Copy of Violet Barbell Icon Fitness Logo (1).png
 heading: ' '
 subheading: ' '
 mainpitch:
