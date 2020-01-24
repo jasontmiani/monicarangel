@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: ' '
 image: /img/Violet Barbell Icon Fitness Logo.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: ' '
+subheading: ' '
 mainpitch:
   title: Why Kaldi
   description: >
